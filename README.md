@@ -1,3 +1,3 @@
 # Spring
 
-A description of this package.
+📦 Swift Package 🔸 Spring.
